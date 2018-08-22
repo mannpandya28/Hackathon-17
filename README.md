@@ -14,10 +14,4 @@ Below are the correct answers:
 * Question 2 - Correct Answer is "Vulcanizing"
 * Question 3  - Correct Answers are #1 (Ribosomes) and #3 (Golgi Apparatus)
 * Question 4 - Correct Answer is "Gravity"
-* Question 5  - Correct Answers is #2 "Pine trees"
-* Question 6 - Correct Answer is "Clouds" or "Cloud"
-* Question 7  - Correct Answers are #3 (Earth) and #4 (Pluto)
-* Question 8 - Correct Answer is "Wrist"
-* Question 9  - Correct Answers is #2 "Stalagmites"
-* Question 10 - Correct Answer is "Smelting"
 
